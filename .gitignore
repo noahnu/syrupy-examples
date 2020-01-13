@@ -1,0 +1,6 @@
+snapshots
+__snapshots__
+.vscode
+.pytest_cache
+__pycache__
+*.venv
